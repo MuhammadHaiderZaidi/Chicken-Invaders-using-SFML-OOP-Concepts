@@ -1,4 +1,4 @@
-# Chicken Invaders
+# Spacecraft VS Chickens
 
 ![alt text](https://i.ibb.co/V9GTQW6/Annotation-2021-02-12-192245.jpg)
 ![alt text](https://i.ibb.co/Df1CVJz/Annotation-2021-02-12-192538.jpg)
